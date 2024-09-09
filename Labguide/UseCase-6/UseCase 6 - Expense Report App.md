@@ -2,7 +2,7 @@
 
 # Facilitator Guide 
 
-#Digitize and automate approvals using Power Platform
+# Digitize and automate approvals using Power Platform
 
 | Description      | A hands-on experience to inspire users to use Microsoft Power Platform tools to design and implement digital systems to meet business objectives.                                                                                                   |
 |------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
