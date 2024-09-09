@@ -1,7 +1,5 @@
 # <img src="./media/image1.png" style="width:6.44028in;height:2.5in" />Level-up CSP Technical Training – Power Platform
 
-# Facilitator Guide 
-
 # Digitize and automate approvals using Power Platform
 
 | Description      |A hands-on experience to inspire users to use Microsoft Power Platform tools to design and implement digital systems to meet business objectives.                                                                                                   |
