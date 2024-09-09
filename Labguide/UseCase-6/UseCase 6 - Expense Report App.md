@@ -4,7 +4,7 @@
 
 # Digitize and automate approvals using Power Platform
 
-| Description      | A hands-on experience to inspire users to use Microsoft Power Platform tools to design and implement digital systems to meet business objectives.                                                                                                   |
+| Description      |A hands-on experience to inspire users to use Microsoft Power Platform tools to design and implement digital systems to meet business objectives.                                                                                                   |
 |------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Prerequisites    | To get the most out of this training we recommend you have admin access with Power Apps for Developer and Power Automate.                                                                                                                           |
 | Audience         | Microsoft partners will deliver this workshop to CSP customers, who have multiple employees in their company, have a Microsoft Power Apps for Developer and Microsoft Power Automate license, and have minimal Microsoft Power Platform experience. |
