@@ -1,7 +1,7 @@
 <img src="./f206b6dee2c05a2ab4b21406bb71a625d19df3c4.png"
 style="width:6.1875in;height:2.39583in" />
 
-**Level-up CSP Technical Training – Power Platform Facilitator Guide  **
+**Level-up CSP Technical Training – Power Platform Facilitator Guide**
 
 Build a copilot for your customer’s webpage
 
