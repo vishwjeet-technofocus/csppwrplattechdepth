@@ -22,58 +22,6 @@ this document for your internal reference purposes.
 
 © 2024 Microsoft. All rights reserved.
 
-# Contents
-
-[Level-up CSP Technical Training – Power Platform
-[1](#level-up-csp-technical-training-power-platform)](#level-up-csp-technical-training-power-platform)
-
-[Facilitator Guide [1](#facilitator-guide)](#facilitator-guide)
-
-[Objective and scenario
-[4](#objective-and-scenario)](#objective-and-scenario)
-
-[Objective [4](#objective)](#objective)
-
-[Solution focus area [4](#solution-focus-area)](#solution-focus-area)
-
-[Personas and scenario
-[4](#personas-and-scenario)](#personas-and-scenario)
-
-[Pre-requisites [5](#pre-requisites)](#pre-requisites)
-
-[Lab instructions [6](#lab-instructions)](#lab-instructions)
-
-[Automating Inventory Management and Quality Control App
-[6](#automating-inventory-management-and-quality-control-app)](#automating-inventory-management-and-quality-control-app)
-
-[**Exercise 1: Create Inventory management app**
-[6](#_Toc176777011)](#_Toc176777011)
-
-[**Task 1 : Create inventory management app using Copilot.**
-[6](#_Toc176777012)](#_Toc176777012)
-
-[**Task 2 : Create candy quality Screen**
-[10](#_Toc176777013)](#_Toc176777013)
-
-[**Task 3 : Notify the supplier when item is marked defective.**
-[27](#_Toc176777014)](#_Toc176777014)
-
-[**Task 4 : Generate an defective email to the supplier.**
-[37](#_Toc176777015)](#_Toc176777015)
-
-[Conclusion [39](#conclusion)](#conclusion)
-
-[**Exercise 2: Create a flow to restock the inventory**
-[39](#_Toc176777017)](#_Toc176777017)
-
-[**Task 1 : Create a Power platform flow to trigger restock email**
-[39](#_Toc176777018)](#_Toc176777018)
-
-[**Task 2 : Test the restock flow**
-[56](#_Toc176777019)](#_Toc176777019)
-
-[Conclusion [62](#conclusion-1)](#conclusion-1)
-
 # Objective and scenario
 
 ## Objective
