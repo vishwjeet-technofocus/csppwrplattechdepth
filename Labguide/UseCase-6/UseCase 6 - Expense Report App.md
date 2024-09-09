@@ -21,57 +21,6 @@ this document for your internal reference purposes.
 
 © 2024 Microsoft. All rights reserved.
 
-# Contents
-
-[Objective and scenario
-[4](#objective-and-scenario)](#objective-and-scenario)
-
-[Objective [4](#objective)](#objective)
-
-[Solution focus area [4](#solution-focus-area)](#solution-focus-area)
-
-[Personas and scenario
-[4](#personas-and-scenario)](#personas-and-scenario)
-
-[Pre-requisites [5](#pre-requisites)](#pre-requisites)
-
-[Lab instructions [6](#lab-instructions)](#lab-instructions)
-
-[Exercise 1: Create an Expense Report App
-[6](#exercise-1-create-an-expense-report-app)](#exercise-1-create-an-expense-report-app)
-
-[Task 1: Sign in to Power Apps
-[6](#task-1-sign-in-to-power-apps)](#task-1-sign-in-to-power-apps)
-
-[Task 2: Create a table with Microsoft Dataverse
-[6](#task-2-create-a-table-with-microsoft-dataverse)](#task-2-create-a-table-with-microsoft-dataverse)
-
-[Task 3: Build your application with Microsoft Dataverse
-[16](#task-3-build-your-application-with-microsoft-dataverse)](#task-3-build-your-application-with-microsoft-dataverse)
-
-[Task 4: Add a Home Screen
-[27](#task-4-add-a-home-screen)](#task-4-add-a-home-screen)
-
-[Task 5: Modify the Browse Screen
-[37](#task-5-modify-the-browse-screen)](#task-5-modify-the-browse-screen)
-
-[Exercise 2: Create an Expense Approval Request flow
-[41](#conclusion)](#conclusion)
-
-[Exercise 3: Test the app [55](#conclusion-1)](#conclusion-1)
-
-[Task 1: Submit an Expense Approval request
-[55](#task-1-submit-an-expense-approval-request)](#task-1-submit-an-expense-approval-request)
-
-[Task 2: Approve the Expense approval request
-[62](#task-2-approve-the-expense-approval-request)](#task-2-approve-the-expense-approval-request)
-
-[Task 3: View different stages of Expense approval request flow
-[64](#task-3-view-different-stages-of-expense-approval-request-flow)](#task-3-view-different-stages-of-expense-approval-request-flow)
-
-[Task 4: Reject the Expense approval request
-[69](#task-4-reject-the-expense-approval-request)](#task-4-reject-the-expense-approval-request)
-
 # Objective and scenario
 
 ## Objective
