@@ -1,6 +1,6 @@
 # Level-up CSP Technical Training – Power Platform Facilitator Guide 
 
-**Create a Holidays List Plugin**
+# Create a Holidays List Plugin
 
 | Description      | A hands-on experience to inspire users to use Copilot Studio to develop a Holiday List Plugin.                                                                                                                                            |
 |------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -19,29 +19,8 @@ this document for your internal reference purposes.
 
 © 2024 Microsoft. All rights reserved.
 
-# Contents
 
-[Level-up CSP Technical Training – Power Platform Facilitator Guide
-[1](#level-up-csp-technical-training-power-platform-facilitator-guide)](#level-up-csp-technical-training-power-platform-facilitator-guide)
-
-[**Objective and Scenario** [2](#_Toc176543757)](#_Toc176543757)
-
-[**Objective** [2](#objective)](#objective)
-
-[**Solution focus area**
-[2](#solution-focus-area)](#solution-focus-area)
-
-[**Personas** [2](#personas)](#personas)
-
-[Exercise 1: Create a Conversational action
-[3](#exercise-1-create-a-conversational-action)](#exercise-1-create-a-conversational-action)
-
-[Exercise 2: Publishing your conversational action to Microsoft Copilot
-[13](#exercise-2-publishing-your-conversational-action-to-microsoft-copilot)](#exercise-2-publishing-your-conversational-action-to-microsoft-copilot)
-
-<span id="_Toc176543757" class="anchor"></span>
-
-**Objective and Scenario**
+# Objective and Scenario
 
 ## **Objective**
 
