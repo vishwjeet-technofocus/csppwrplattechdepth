@@ -548,19 +548,17 @@ alt="A screenshot of a computer Description automatically generated" />
 
 ### Conclusion
 
-After completing this exercise, you will have:
+Upon the conclusion of this exercise, you will possess:
 
-1.  A table dedicated to expenses related to business trips within
-    Dataverse.
+1.  **Expenses on business trip** table within Dataverse.
 
-2.  An **Expense Report App** developed utilizing Microsoft Dataverse.
+2.  An **Expense Report App** developed using the **Expenses on business trip** table.
 
-3.  A **Home Screen** designed for your application.
+3.  A **Home Screen** tailored for your application.
 
 4.  An enhanced **Browse Screen**.
 
-This guarantees that you will have a fully functional **Expense Report
-App**, complete with all essential screens.
+This ensures that you will have a fully functional **Expense Report App**, inclusive of all necessary screens.
 
 ## Exercise 2: Create an Expense Approval Request flow 
 
@@ -626,8 +624,8 @@ alt="A screenshot of a computer Description automatically generated" />
     - **Assigned to** – Enter your **Tenant Admin credentials**
 
     - **Details** – From **Dynamic content**, select **Name of
-      > employee**, **Employee position**, **Trip destination** and
-      > **Number of days of travel**
+      employee**, **Employee position**, **Trip destination** and
+      **Number of days of travel**
 
 <img src="./media/image57.png"
 style="width:6.39222in;height:4.39205in" />
@@ -684,11 +682,11 @@ alt="A screenshot of a computer Description automatically generated" />
 - **Subject** - Expense request rejected
 
 - **Body** - Your expense request is rejected. Please check the comments
-  > by the Accounting Officer. Add **Responses Comments** from **Dynamic
-  > content**.
+  by the Accounting Officer. Add **Responses Comments** from **Dynamic
+  content**.
 
 - As soon as you add **Responses Comments** from **Dynamic content**,
-  > the **Responses** field is added above **Send an email (V2)**.
+  the **Responses** field is added above **Send an email (V2)**.
 
 <img src="./media/image65.png" style="width:6.5in;height:5.12639in"
 alt="A screenshot of a computer Description automatically generated" />
@@ -721,16 +719,14 @@ alt="A screenshot of a computer Description automatically generated" />
 
 ### Conclusion
 
-After completing this exercise, you will have:
+Upon the conclusion of this exercise, you will possess:
 
 1.  An **Expense approval request flow** created in Power Automate.
 
 2.  The **IconNewItem1** button integrated with the **Expense approval
     request flow**.
 
-This ensures that the **Expense approval request flow** is seamlessly
-integrated with the **Expense Report App** and will be triggered by the
-**IconNewItem1** button.
+This integration guarantees that the **Expense Approval Request flow** functions smoothly with the **Expense Report App** and is triggered by the **IconNewItem1** button.
 
 ## Exercise 3: Test the app
 
@@ -917,15 +913,10 @@ alt="A screenshot of a computer Description automatically generated" />
 
 ### Conclusion
 
-After completing this exercise, you will have:
+Upon the conclusion of this exercise, you will possess:
 
-1.  An **Expense Report App** that has undergone successful testing for
-    both outcomes: the approval of an Expense Approval request and its
-    rejection.
+1.  A thoroughly tested **Expense Report App** that has successfully addressed both potential outcomes: the approval and rejection of an Expense Approval request.
 
-2.  An examination of the various phases involved in the Expense
-    approval request process following submission.
+2.  An analysis of the different stages involved in the Expense approval request process after submission.
 
-This guarantees that you have a comprehensively tested and validated
-**Expense Report App**, facilitating the efficient management of
-employee expense approvals.
+This ensures that you have a comprehensively tested and validated **Expense Report App**, facilitating the efficient management of employee expense approvals.
