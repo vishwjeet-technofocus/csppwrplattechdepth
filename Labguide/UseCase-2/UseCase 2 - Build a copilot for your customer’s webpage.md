@@ -138,9 +138,6 @@ For this use case, all participants will need the following: 
 
 - Contoso Refund Policy File.
 
-**  
-**
-
 # **Lab Instructions**
 
 # EXCERSIE 1: SETTING UP AND CONFIGURING DYNAMIC 365 CUSTOMER SERVICE
