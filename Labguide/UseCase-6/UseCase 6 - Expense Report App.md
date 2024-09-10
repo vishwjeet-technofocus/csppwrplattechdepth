@@ -19,7 +19,7 @@ this document for your internal reference purposes.
 
 © 2024 Microsoft. All rights reserved.
 
-# Objective and scenario
+# Objective and Scenario
 
 ## Objective
 
@@ -57,7 +57,7 @@ Power Apps and an approval flow using Power Automate. You will use
 Microsoft Dataverse to store your data. Dataverse already has access to
 your users and works with canvas apps seamlessly.
 
-## Personas and scenario 
+## Personas and Scenario 
 
 - **Remy Morris** - Digital Solutions Architect
 
