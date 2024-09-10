@@ -1,8 +1,6 @@
 # Level-up CSP Technical Training – Power Platform
 
-# Facilitator Guide 
-
-**Use case – Automate Employee Onboarding using Power Platform**
+# Use case – Automate Employee Onboarding using Power Platform
 
 | Description      | A hands-on experience to inspire users to use Microsoft Power Platform tools to design and implement digital systems to meet business objectives.                                                                                                   |
 |------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -20,57 +18,6 @@ intellectual property in any Microsoft product. You may copy and use
 this document for your internal reference purposes.
 
 © 2024 Microsoft. All rights reserved.
-
-# Contents
-
-[Level-up CSP Technical Training – Power Platform
-[1](#level-up-csp-technical-training-power-platform)](#level-up-csp-technical-training-power-platform)
-
-[Facilitator Guide [1](#facilitator-guide)](#facilitator-guide)
-
-[Objective and scenario
-[4](#objective-and-scenario)](#objective-and-scenario)
-
-[Objective [4](#objective)](#objective)
-
-[Solution focus area [4](#solution-focus-area)](#solution-focus-area)
-
-[Personas and scenario
-[4](#personas-and-scenario)](#personas-and-scenario)
-
-[Pre-requisites [5](#pre-requisites)](#pre-requisites)
-
-[Lab instructions [6](#lab-instructions)](#lab-instructions)
-
-[**Exercise 1: Create Employees, HR and Manager list in Share point**
-[6](#_Toc176777246)](#_Toc176777246)
-
-[**Task 1 : Create a site in Share point**
-[6](#_Toc176777247)](#_Toc176777247)
-
-[**Task 2 : Create a Employees list in SharePoint site from CSV file**
-[11](#_Toc176777248)](#_Toc176777248)
-
-[**Task 3 : Create a HR list in SharePoint site from CSV file**
-[22](#_Toc176777249)](#_Toc176777249)
-
-[Conclusion [27](#conclusion)](#conclusion)
-
-[**Exercise 2: Create Power apps for SharePoint Lists**
-[27](#_Toc176777251)](#_Toc176777251)
-
-[**Task 1 : Customize Employee form with PowerApps for HRs to fill.**
-[28](#_Toc176777252)](#_Toc176777252)
-
-[**Task 2 : Create employee onboarding Canvas app for the employee**
-[47](#_Toc176777253)](#_Toc176777253)
-
-[**Task 3 : Create Power Automate flow to send a form to the new
-employee** [68](#_Toc176777254)](#_Toc176777254)
-
-[**Task 4 : Test the flow.** [77](#_Toc176777255)](#_Toc176777255)
-
-[Conclusion [81](#conclusion-1)](#conclusion-1)
 
 # Objective and scenario
 
