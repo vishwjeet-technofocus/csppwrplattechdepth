@@ -20,7 +20,7 @@ this document for your internal reference purposes. 
 
 © 2024 Microsoft. All rights reserved.  
 
-# **Objective and scenario**
+# **Objective and Scenario**
 
 ## Objective
 
