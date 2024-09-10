@@ -1,24 +1,37 @@
-# Level-up CSP Technical Training – Power Platform Facilitator Guide
+![image](https://github.com/user-attachments/assets/7f9b8165-a36b-4e77-9c0e-60d4f8cd7714)![image](https://github.com/user-attachments/assets/b1dfd941-d512-474d-9512-f9b609588c0e)
 
-# Build a copilot for your customer’s webpage
+# Level-up CSP Technical Training – Power Platform Facilitator Guide
 
-| Description       | Develop a Virtual Assistant copilot for Contoso Electronics' website to enhance customer support by simplifying the laptop discovery process, providing tailored recommendations, and offering side-by-side device comparisons. The copilot will also inform customers about current deals, accessories, and protection plans. Additionally, it will assist with appointment scheduling for further consultation with sales associates. To streamline the post-purchase process, the copilot will provide information on Contoso’s return policies, check return eligibility, and enable customers to submit refund requests directly within the chat interface for a seamless user experience. |
-|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Prerequisites     | To get the most out of this lab guide we recommend you have admin access with Power Apps, Power Automate Flow, Copilot Studio, Dynamic 365 and Return policy lab file.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| Duration          | 2 hours                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| Publication date  | September 2024                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
-This document is provided “as-is”. Information and views expressed in
-this document, including URL and other Internet Web site references, may
-change without notice. You bear the risk of using it. 
+## Build a copilot for your customer’s webpage
 
-This document does not provide you with any legal rights to any
-intellectual property in any Microsoft product. You may copy and use
-this document for your internal reference purposes. 
+[](https://github.com/technofocus-pte/csppwrplattechdepth/new/main/Labguide/UseCase-2#build-a-copilot-for-your-customers-webpage)
 
- 
+### Lab Guide for Retail Scenario
 
-© 2024 Microsoft. All rights reserved.  
+<table border="1">
+  <tr>
+    <td><strong>Description</strong></td>
+    <td>Develop a Virtual Assistant copilot for Contoso Electronics' website to enhance customer support by simplifying the laptop discovery process, providing tailored recommendations, and offering side-by-side device comparisons. The copilot will also inform customers about current deals, accessories, and protection plans. Additionally, it will assist with appointment scheduling for further consultation with sales associates. To streamline the post-purchase process, the copilot will provide information on Contoso’s return policies, check return eligibility, and enable customers to submit refund requests directly within the chat interface for a seamless user experience.</td>
+  </tr>
+  <tr>
+    <td><strong>Prerequisites</strong></td>
+    <td>To get the most out of this lab guide we recommend you have admin access with Power Apps, Power Automate Flow, Copilot Studio, Dynamic 365 and Return policy lab file.</td>
+  </tr>
+  <tr>
+    <td><strong>Duration</strong></td>
+    <td>2 hours</td>
+  </tr>
+  <tr>
+    <td><strong>Publication date</strong></td>
+    <td>September 2024</td>
+  </tr>
+</table>
+
+
+This document is provided “as-is”. Information and views expressed in this document, including URL and other Internet Web site references, may change without notice. You bear the risk of using it. This document does not provide you with any legal rights to any intellectual property in any Microsoft product. You may copy and use this document for your internal reference purposes.
+
+© 2024 Microsoft. All rights reserved. 
 
 # **Objective and Scenario**
 
