@@ -1,10 +1,6 @@
-<img src="./f206b6dee2c05a2ab4b21406bb71a625d19df3c4.png"
-style="width:6.26042in;height:2.41667in" />  
-**Level-up CSP Technical Training – Power Platform Facilitator Guide  **
+# Level-up CSP Technical Training – Power Platform Facilitator Guide
 
-Custom Copilot for Enhanced Customer Experience
-
-Lab Guide for Retail Scenario
+# Custom Copilot for Enhanced Customer Experience
 
 | Description       | This scenario extends the functionality of the Virtual Assistant copilot for Contoso Electronics, initially developed to assist customers with product discovery and post-purchase activities like return eligibility and refund requests. The enhancement introduces automated case escalation, allowing the copilot to seamlessly transfer conversations to live agents when it cannot resolve a query or when the customer requests human assistance. This ensures a more personalized and efficient customer service experience by blending automated responses with human support for complex issues. |
 |-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -23,73 +19,6 @@ this document for your internal, reference purposes. 
  
 
 © 2024 Microsoft. All rights reserved.  
-
-# Table of Contents
-
-[Objective & Scenario [3](#objective-scenario)](#objective-scenario)
-
-[Objective [4](#objective)](#objective)
-
-[Solution Focus Area [4](#solution-focus-area)](#solution-focus-area)
-
-[Persona and Scenario [4](#persona-and-scenario)](#persona-and-scenario)
-
-[Pre-requisites [5](#pre-requisites)](#pre-requisites)
-
-[Lab Instructions [5](#lab-instructions)](#lab-instructions)
-
-[Exercise1: Configure Copilot with Dynamics 365
-[6](#exercise1-configure-copilot-with-dynamics-365)](#exercise1-configure-copilot-with-dynamics-365)
-
-[Task 1: Sign in to Dynamic 365
-[6](#task-1-sign-in-to-dynamic-365)](#task-1-sign-in-to-dynamic-365)
-
-[Task 2: Create a New Workstream
-[9](#task-2-create-a-new-workstream)](#task-2-create-a-new-workstream)
-
-[Task 3: Configure a New Channel
-[10](#task-3-configure-a-new-channel)](#task-3-configure-a-new-channel)
-
-[Conclusion [13](#conclusion)](#conclusion)
-
-[Exercise 2: Escalate Copilot and Connect Omnichannel
-[13](#exercise-2-escalate-copilot-and-connect-omnichannel)](#exercise-2-escalate-copilot-and-connect-omnichannel)
-
-[Task 1: Configure Escalate Topic
-[14](#task-1-configure-escalate-topic)](#task-1-configure-escalate-topic)
-
-[Task 2: Activate the Copilot Channel
-[16](#task-2-activate-the-copilot-channel)](#task-2-activate-the-copilot-channel)
-
-[Task 3: Publish Your Copilot [17](#_Toc1126792173)](#_Toc1126792173)
-
-[Conclusion [18](#conclusion-1)](#conclusion-1)
-
-[Exercise 3: Add and Activate Copilot Bot in Dynamic 365
-[18](#exercise-3-add-and-activate-copilot-bot-in-dynamic-365)](#exercise-3-add-and-activate-copilot-bot-in-dynamic-365)
-
-[Task 1: Add Bot in Dynamic 365
-[19](#task-1-add-bot-in-dynamic-365)](#task-1-add-bot-in-dynamic-365)
-
-[Task 2: Check Bot Connection
-[21](#task-2-check-bot-connection)](#task-2-check-bot-connection)
-
-[Conclusion [22](#conclusion-2)](#conclusion-2)
-
-[Exercise 4: Deploy Copilot on a Power Page Website
-[22](#exercise-4-deploy-copilot-on-a-power-page-website)](#exercise-4-deploy-copilot-on-a-power-page-website)
-
-[Task 1: Connect Bot with Power Pages
-[22](#task-1-connect-bot-with-power-pages)](#task-1-connect-bot-with-power-pages)
-
-[Conclusion [27](#conclusion-3)](#conclusion-3)
-
-[Test Live Agent [27](#test-live-agent)](#test-live-agent)
-
-[Final Conclusion [30](#final-conclusion)](#final-conclusion)
-
-**  
-**
 
 # **Objective & Scenario**
 
@@ -188,9 +117,6 @@ For this use case, all participants will need the following: 
 - Contoso Electronics Bot Use Case 2 (Build a copilot for your
   customer’s webpage)
 
-**  
-**
-
 # **Lab Instructions**
 
 # Exercise1: Configure Copilot with Dynamics 365
@@ -248,7 +174,7 @@ style="width:6.26806in;height:2.98125in" />
 <img src="./media/image5.png"
 style="width:6.26806in;height:2.94931in" />
 
-## Task 2: Create a New Workstream
+## Task 2: Create a new Workstream
 
 1.  In the left navigation bar, click on **Workstream**, then click on
     **+ New Workstream** to create a new one.
@@ -271,7 +197,7 @@ style="width:6.26806in;height:2.77569in" />
 <img src="./media/image7.png"
 style="width:6.26806in;height:2.93125in" />
 
-## Task 3: Configure a New Channel
+## Task 3: Configure a new Channel
 
 1.  In the **Contoso Agent** workstream, click on **Set up chat**.
 
@@ -323,7 +249,7 @@ After completing all exercise, you will have:
 This setup prepares Dynamics 365 for effective customer interaction
 management.
 
-# Exercise 2: Escalate Copilot and Connect Omnichannel
+# Exercise 2: Escalate Copilot and connect Omnichannel
 
 In this exercise, you'll enhance the functionality of your Copilot by
 configuring escalation topics and establishing a connection with
@@ -391,7 +317,7 @@ style="width:6.26806in;height:2.98056in" />
 <img src="./media/image22.png"
 style="width:6.26806in;height:2.97708in" />
 
-## Task 3: Publish Your Copilot
+## Task 3: Publish your Copilot
 
 1.  Navigate to Overview section and In Microsoft Copilot Studio, look
     for the **Publish** button on the right side of the screen.
@@ -424,7 +350,7 @@ These steps enhance the Copilot's functionality and integration with
 Dynamics 365, ensuring effective escalation handling and seamless
 communication.
 
-# Exercise 3: Add and Activate Copilot Bot in Dynamic 365
+# Exercise 3: Add and activate Copilot Bot in Dynamic 365
 
 In this exercise, you'll integrate your Copilot bot into Dynamics 365 by
 adding it to the Customer Service workspace. This process involves
