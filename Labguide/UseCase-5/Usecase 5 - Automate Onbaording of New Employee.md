@@ -91,9 +91,7 @@ For this use case, all participants will need the following:
 
 - Microsoft Power Automate License
 
-- Windows 10/11 Enterprise E3 Trial license
-
-- Office 365 E5 Trial license
+- Microsoft 365 Business Premium/E3/E5
 
 - Their own devices with Wi-Fi connection.
 
