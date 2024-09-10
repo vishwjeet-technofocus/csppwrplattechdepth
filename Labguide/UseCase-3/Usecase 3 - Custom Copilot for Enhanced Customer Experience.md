@@ -20,7 +20,7 @@ this document for your internal, reference purposes. 
 
 © 2024 Microsoft. All rights reserved.  
 
-# **Objective & Scenario**
+# **Objective and Scenario**
 
 ## Objective
 
@@ -33,7 +33,7 @@ In this use case, the goal is to enhance the copilot by introducing
 automated case escalation to live agents when the copilot cannot resolve
 a customer’s issue or when the customer requests human support.
 
-## Solution Focus Area
+## Solution focus area
 
 In **Use Case 2**, the copilot was created and published on Contoso
 Electronics' website to assist customers with product discovery and
@@ -53,7 +53,7 @@ The enhancement will focus on:
     assistance at any point during their interaction with the copilot,
     ensuring they can access human support when needed.
 
-## Persona and Scenario
+## Personas and Scenario
 
 - **Remy Morris** - Digital Solutions Architect 
 
