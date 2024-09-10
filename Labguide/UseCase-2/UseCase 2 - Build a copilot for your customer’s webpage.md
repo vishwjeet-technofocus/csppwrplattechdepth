@@ -140,7 +140,7 @@ For this use case, all participants will need the following: 
 
 # **Lab Instructions**
 
-# EXCERSIE 1: SETTING UP AND CONFIGURING DYNAMIC 365 CUSTOMER SERVICE
+# Exercise 1: SETTING UP AND CONFIGURING DYNAMIC 365 CUSTOMER SERVICE
 
 In this exercise, you'll set up and configure Dynamics 365 Customer
 Service by signing up for a trial, managing users, and configuring
