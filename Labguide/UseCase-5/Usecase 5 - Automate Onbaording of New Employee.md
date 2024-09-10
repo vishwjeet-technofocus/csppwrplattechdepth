@@ -19,7 +19,7 @@ this document for your internal reference purposes.
 
 © 2024 Microsoft. All rights reserved.
 
-# Objective and scenario
+# Objective and Scenario
 
 ## Objective
 
@@ -52,7 +52,7 @@ Contoso Corp needs a new solution that can:
 Microsoft Power Platform tools, including Power Apps and Power Automate
 to enhance the onboarding experience at Contoso Corp.
 
-## Personas and scenario 
+## Personas and Scenario 
 
 - **Remy Morris** - Digital Solutions Architect
 
