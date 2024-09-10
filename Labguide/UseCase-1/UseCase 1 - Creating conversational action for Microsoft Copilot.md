@@ -50,7 +50,7 @@ providing them with a more interactive and efficient experience.
 The Plugins will be available in the Microsoft Copilot in production, if
 the organization has valid license for the same.
 
-## **Personas** 
+## **Personas and Scenario** 
 
 - **Mark Brown** – Project lead
 
