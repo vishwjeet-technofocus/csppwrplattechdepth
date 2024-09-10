@@ -1,9 +1,6 @@
 # Level-up CSP Technical Training – Power Platform
 
-# Facilitator Guide 
-
-**Use case –Automate Inventory management and Quality control app using
-Power Platform**
+# Use case –Automate Inventory management and Quality control app using Power Platform
 
 | Description      | A hands-on experience to inspire users to use Microsoft Power Platform tools to design and implement digital systems to meet business objectives.                                                                                                   |
 |------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
