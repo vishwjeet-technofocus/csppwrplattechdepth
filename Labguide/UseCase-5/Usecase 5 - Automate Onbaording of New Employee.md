@@ -1,6 +1,6 @@
 # Level-up CSP Technical Training – Power Platform
 
-# Use case – Automate Employee Onboarding using Power Platform
+# Automate Employee Onboarding using Power Platform
 
 | Description      | A hands-on experience to inspire users to use Microsoft Power Platform tools to design and implement digital systems to meet business objectives.                                                                                                   |
 |------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
