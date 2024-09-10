@@ -30,7 +30,7 @@ their specific needs and preferences, as well as handling post-purchase
 activities like verifying return eligibility and submitting refund
 requests seamlessly.
 
-## Solution Focus Area
+## Solution focus area
 
 Contoso Electronics, a leader in consumer electronics, offers a wide
 variety of devices and accessories, making it challenging for customers
@@ -57,7 +57,7 @@ with knowledge sources, will assist customers from the initial product
 discovery phase through to post-purchase services like returns and
 refunds.
 
-## Persona and Scenario
+## Personas and Scenario
 
 - **Remy Morris** - Digital Solutions Architect 
 
