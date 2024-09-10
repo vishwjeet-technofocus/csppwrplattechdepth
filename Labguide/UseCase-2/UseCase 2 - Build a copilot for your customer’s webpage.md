@@ -140,7 +140,7 @@ For this use case, all participants will need the following: 
 
 # **Lab Instructions**
 
-# Exercise 1: SETTING UP AND CONFIGURING DYNAMIC 365 CUSTOMER SERVICE
+# Exercise 1: Setting up and congiguring Dynamics 365 Customer Service
 
 In this exercise, you'll set up and configure Dynamics 365 Customer
 Service by signing up for a trial, managing users, and configuring
@@ -148,7 +148,7 @@ essential settings. Follow these steps to get hands-on with the
 platform's core features and start optimizing your customer service
 operations.
 
-## Task 1: Sign Up for Dynamics 365 Customer Service Trial
+## Task 1: Sign up for Dynamics 365 Customer Service Trial
 
 1.  Begin by opening your preferred web browser and navigating to the
     <https://www.microsoft.com/en-us/dynamics-365/products/customer-service>
@@ -247,7 +247,7 @@ alt="A screenshot of a computer Description automatically generated" />
 <img src="./media/image10.png"
 style="width:6.26806in;height:2.9625in" />
 
-## Task 2: Manage a User in Omnichannel for Customer Service
+## Task 2: Manage a user in Omnichannel for Customer Service
 
 1.  Start by accessing the **Dynamics 365 Customer Service admin
     center**.
@@ -352,7 +352,7 @@ alt="A screenshot of a computer Description automatically generated" />
 > <img src="./media/image20.png" style="width:4.81667in;height:5.03333in"
 > alt="A screenshot of a computer Description automatically generated" />
 
-## Task 4: Configure Search Settings in the Power Platform Admin Center
+## Task 4: Configure search settings in the Power Platform Admin Center
 
 1.  First, log in to the <https://admin.powerplatform.microsoft.com/>
     using your tenant credentials.
@@ -440,7 +440,7 @@ After completing this exercise, you will have:
 This ensures a fully functional customer service environment with
 streamlined operations.
 
-# EXERCISE 2: SIGNUP FOR POWER APP AND COPILOT STUDIO
+# Exercise 2: Signup for Power Apps and Copilot Studio
 
 In this exercise, we will focus on signing up for Microsoft Power Apps
 and Copilot Studio. This process will enable you to access and leverage
@@ -449,7 +449,7 @@ will begin by creating your accounts and setting up the necessary
 environments to start building and configuring your applications and
 Copilot functionalities.
 
-## Task 1: Sign Up for Microsoft Power Apps
+## Task 1: Sign up for Microsoft Power Apps
 
 1.  Open your web browser and go to the
     <https://powerapps.microsoft.com/free/> page.
@@ -527,7 +527,7 @@ After completing this exercise, you will have:
 This prepares you for creating and managing apps with enhanced customer
 service features.
 
-# EXERCISE 3: CREATE CUSTOM TABLES
+# Exercise 3: Create custom tables
 
 In this exercise, you'll create custom tables in Power Apps to manage
 data efficiently. You'll start by setting up a solution and assigning it
@@ -595,7 +595,7 @@ style="width:6.26806in;height:2.98056in" />
 <img src="./media/image38.png"
 style="width:6.26806in;height:2.99444in" />
 
-## Task 2: Set the Preferred Solution
+## Task 2: Set the preferred Solution
 
 1.  In the Power Apps Maker portal, navigate to the **Solutions**
     section in the left-hand menu.
@@ -615,7 +615,7 @@ style="width:6.26806in;height:2.96875in" />
 <img src="./media/image40.png"
 style="width:6.26806in;height:2.97778in" />
 
-## Task 3: Create the "Book Appointments" Table
+## Task 3: Create the "Book Appointments" table
 
 1.  In the Power Apps Maker portal, select **Tables** from the left-hand
     navigation pane.
@@ -695,7 +695,7 @@ style="width:6.26806in;height:2.96875in" />
 > <img src="./media/image51.png"
 > style="width:6.26806in;height:2.99514in" />
 
-## Task 4: Create the "Refund Requests" Table
+## Task 4: Create the "Refund Requests" table
 
 1.  In the Power Apps Maker portal, select **Tables** from the left-hand
     navigation pane.
@@ -822,7 +822,7 @@ After completing this exercise, you will have:
 This setup helps organize and structure essential customer service
 information in your environment.
 
-# Exercise 4: Build a Copilot in Microsoft Copilot Studio with New AI Capabilities
+# Exercise 4: Build a Copilot in Microsoft Copilot Studio with new AI Capabilities
 
 In this exercise, you will create and configure a new copilot in
 Microsoft Copilot Studio to assist with Contoso Electronics services.
@@ -902,7 +902,7 @@ style="width:6.26806in;height:2.98056in" />
 <img src="./media/image71.png"
 style="width:6.26806in;height:2.95069in" />
 
-## Task 2: Configure Security and Generative AI
+## Task 2: Configure security and Generative AI
 
 1.  In Microsoft Copilot Studio, locate and click on the **Settings**
     option in the top-right corner of the screen. This action will open
@@ -1063,7 +1063,7 @@ style="width:6.26806in;height:2.99722in" />
 <img src="./media/image89.png"
 style="width:6.26806in;height:2.96181in" />
 
-## Task 6: Publish Your Copilot
+## Task 6: Publish your Copilot
 
 1.  Navigate to Overview section and In Microsoft Copilot Studio, look
     for the **Publish** button on the right side of the screen.
@@ -1099,7 +1099,7 @@ This copilot will streamline customer interactions by providing
 information about laptops, refund policies, and facilitating bookings or
 appointments
 
-# Exercise 5: Create and Manage Topics
+# Exercise 5: Create and manage Topics
 
 In this exercise, you will learn how to create and manage topics within
 the Copilot Studio. Topics are essential for defining how your copilot
@@ -2120,7 +2120,7 @@ These tasks collectively enhance the copilot's ability to provide
 relevant and accurate information, improving the overall user
 interaction experience.
 
-# Exercise 6: Create Power Automate Flow and Integrate Actions
+# Exercise 6: Create Power Automate flow and integrate actions
 
 In this exercise, you will learn how to create and integrate Power
 Automate flows with your Copilot. These flows will automate key
@@ -2131,7 +2131,7 @@ interactions. By the end of this exercise, you will have set up
 automated workflows that enhance the functionality of your Copilot and
 improve user experience.
 
-## Task 1: Create Power Automate Flow to Book an Appointment
+## Task 1: Create Power Automate flow to Book an Appointment
 
 1.  In the Copilot pane on the left-hand side of the screen, click on
     your Copilot to return to the **Overview** tab.
@@ -2262,7 +2262,7 @@ style="width:6.26806in;height:2.95417in" />
 20. Once the flow is published, close the Power Automate tab to return
     to Copilot Studio.
 
-## Task 2: Create Action in Copilot for Book Appointments
+## Task 2: Create action in Copilot for Book Appointments
 
 1.  Go to copilot window and click on **Refresh**, (If the Copilot
     window was closed, reopen it and navigate back to the **Copilot
@@ -2337,7 +2337,7 @@ style="width:6.26806in;height:2.94583in" />
 
 <img src="./media/image200.png" style="width:6.26806in;height:2.95in" />
 
-## Task 3: Create Power Automate Flow to Refund Requests Flow
+## Task 3: Create Power Automate flow to Refund Requests Flow
 
 1.  In the Copilot pane on the left-hand side of the screen, click on
     your Copilot to return to the **Overview** tab.
@@ -2480,7 +2480,7 @@ style="width:6.26806in;height:2.73889in" />
 19. Once the flow is published, close the Power Automate tab to return
     to Copilot Studio.
 
-## Task 4: Create Action in Copilot for Refund Requests
+## Task 4: Create action in Copilot for Refund Requests
 
 1.  Go to copilot window and click on **Refresh**, (If the Copilot
     window was closed, reopen it and navigate back to the **Copilot
@@ -2571,7 +2571,7 @@ style="width:6.26806in;height:3.0375in" />
 <img src="./media/image226.png"
 style="width:6.26806in;height:2.96528in" />
 
-## Task 5: Publish Your Copilot
+## Task 5: Publish your Copilot
 
 1.  Navigate to Overview section and In Microsoft Copilot Studio, look
     for the **Publish** button on the right side of the screen.
@@ -2604,7 +2604,7 @@ These automated workflows enhance the Copilot's functionality, allowing
 it to handle appointments and refunds effectively, improving overall
 user experience.
 
-# Test Your Copilot
+# Test your Copilot
 
 To test the functionalities of your Copilot and Power Automate flows,
 follow these steps:
