@@ -96,8 +96,6 @@ For this use case, all participants will need the following:
 
 - Microsoft Power Automate License
 
-- Windows 10/11 License
-
 - Microsoft 365 Business Premium/E3/E5
 
 - Their own devices with Wi-Fi connection.
