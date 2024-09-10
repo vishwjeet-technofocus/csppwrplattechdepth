@@ -299,7 +299,7 @@ alt="A screenshot of a computer Description automatically generated" />
 > alt="A screenshot of a computer Description automatically generated" />
 
 9.  Click on **DetailScreen** and from the drag down click on
-    **DetailForm**.
+    **DetailForm1**.
 
 > <img src="./media/image23.png" style="width:6.5in;height:3.80625in"
 > alt="A screenshot of a computer Description automatically generated" />
@@ -368,7 +368,7 @@ alt="A screenshot of a computer Description automatically generated" />
     your **Expenses on business trip** table. Thereafter, click **Add**.
     Remove the fields that are not required.
 
-18. Arrange the fields in the same format as in **DetailForm**.
+18. Arrange the fields in the same format as in **DetailForm1**.
 
 <img src="./media/image31.png" style="width:6.5in;height:3.95556in" />
 
